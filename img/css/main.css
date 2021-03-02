@@ -1,0 +1,42 @@
+html {background-color: #0d0d0d;}
+
+#sopra {
+	background-image: url(https://images5.alphacoders.com/527/527241.jpg);
+	background-size: cover;
+	padding-bottom: 23%;
+	margin-bottom: -170px;
+}
+
+body{
+   background-color: #1a1a1a;
+   text-align: center;
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+h1{
+   font-size:30px;
+   line-height: 0px;
+   color: #008fb3;
+} 
+h3{
+   font-size: 18px;
+   color: #999999;
+   font-family: Andale Mono, monospace;
+   letter-spacing: -1.5px;
+}
+
+#downloadcv img{
+	width: 200px;
+}
+
+#fotoloris {
+	width: 250px;
+}
+
+#sotto {
+	background-color: #008fb3;
+	padding-bottom: 10px;
+   margin-top: 20px;
+}
+

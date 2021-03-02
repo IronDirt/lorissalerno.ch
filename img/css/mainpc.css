@@ -1,0 +1,19 @@
+@media screen and (min-width: 500px) {
+
+
+h1{font-size:40px;} 
+h3{font-size:20px;} 
+
+#downloadcv img{
+	width: 200px;
+	transition: transform .2s;
+}
+
+#downloadcv img:hover{
+	transform: scale(1.05);
+}
+.container img{
+	width: 30px;
+	margin: 11px 0 0 5px;
+} 
+} 
