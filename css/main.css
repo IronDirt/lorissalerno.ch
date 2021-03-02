@@ -22,7 +22,7 @@ h1{
 h3{
    font-size: 20px;
    color: #999999;
-   font-family: Andale Mono, monospace;
+   font-family: Andale Mono, monospace, Arial, sans-serif;
    letter-spacing: -1.5px;
 }
 
