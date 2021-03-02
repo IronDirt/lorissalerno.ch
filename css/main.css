@@ -4,7 +4,7 @@ html {background-color: #0d0d0d;}
 	background-image: url(https://images5.alphacoders.com/527/527241.jpg);
 	background-size: cover;
 	padding-bottom: 23%;
-	margin-bottom: -100px;
+	margin-bottom: -170px;
 }
 
 body{
@@ -15,23 +15,23 @@ body{
 }
 
 h1{
-   font-size:28px;
+   font-size:30px;
    line-height: 0px;
    color: #008fb3;
 } 
 h3{
-   font-size: 15px;
+   font-size: 18px;
    color: #999999;
    font-family: Andale Mono, monospace;
    letter-spacing:-1.5px;
 }
 
 #downloadcv img{
-	width: 150px;
+	width: 200px;
 }
 
 #fotoloris {
-	width: 30%;
+	width: 250px;
 }
 
 #sotto {
