@@ -1,4 +1,4 @@
-@media screen and (min-width: 660px) {
+@media only screen and (min-width: 600px) {
 
 
 h1{font-size:40px;} 
@@ -12,4 +12,3 @@ h3{font-size:20px;}
 #downloadcv img:hover{
 	transform: scale(1.05);
 }
-} 

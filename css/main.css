@@ -23,7 +23,7 @@ h3{
    font-size: 18px;
    color: #999999;
    font-family: Andale Mono, monospace;
-   letter-spacing:-1.5px;
+   letter-spacing: -1.5px;
 }
 
 #downloadcv img{
@@ -37,4 +37,6 @@ h3{
 #sotto {
 	background-color: #008fb3;
 	padding-bottom: 10px;
+   margin-top: 20px;
 }
+
