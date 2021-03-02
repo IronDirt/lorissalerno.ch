@@ -15,19 +15,15 @@ body{
 }
 
 h1{
-   font-size:30px;
+   font-size:40px;
    line-height: 0px;
    color: #008fb3;
 } 
 h3{
-   font-size: 18px;
+   font-size: 20px;
    color: #999999;
    font-family: Andale Mono, monospace;
    letter-spacing: -1.5px;
-}
-
-#downloadcv img{
-	width: 200px;
 }
 
 #fotoloris {
@@ -40,3 +36,32 @@ h3{
    margin-top: 20px;
 }
 
+
+#downloadcv img{
+   width: 200px;
+   transition: transform .2s;
+}
+
+#downloadcv img:hover{
+   transform: scale(1.05);
+}
+
+
+@media only screen and (max-device-width: 480px) {
+#sopra {
+   padding-bottom: 30%;
+   margin-bottom: -270px;
+}
+#fotoloris {
+   width: 400px;
+}
+h1{
+   font-size:65px;
+} 
+h3{
+   font-size: 35px;
+}
+#downloadcv img{
+   width: 500px;
+}
+}
